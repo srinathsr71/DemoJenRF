@@ -9,6 +9,6 @@ ${browser} =  edge
 opening application
     Open Browser    ${url}    ${browser} 
     Maximize Browser Window
-    Sleep    30s
+    Sleep    35s
     Close Browser
  
