@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Run Robot Tests') {
             steps {
-                bat 'robot C:\Users\Admin\Downloads\DemoJenRF-main'
+                bat 'pybot C://Users//Admin//Downloads//DemoJenRF-main'
             }
         }
     }
